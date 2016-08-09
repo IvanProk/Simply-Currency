@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Simply Currency</string>
+
+    <string name="info">Со вчерашнего дня\n</string>
+    <string name="eur">евро \0</string>
+    <string name="usd">доллар \0</string>
+    <string name="rub">рубль \0</string>
+    <string name="eur2">евро \n</string>
+    <string name="usd2">доллару \n</string>
+    <string name="rub2">рублю \n</string>
+    <string name="fell">упал к \0</string>
+    <string name="up">вырос к \0</string>
+    <string name="at">\0 в \0</string>
+    <string name="by">на \0</string>
+    <string name="today_status">Обновлено сегодня в \0</string>
+    <string name="yesterday_status">Обновлено вчера в \0</string>
+    <string name="status"> Обновлено \0</string>
+    <string name="preserved">курс не изменился</string>
+    <string name="on">на \0</string>
+    <string name="network_trouble"><![CDATA[<p><font color = "#d0021b">Проблема с сетью.</p>Потяните вниз для обновления.]]></string>
+    <string name="check_internet">Проверьте ваше интернет подключение</string>
+    <string name="network_error">Ошибка сети</string>
+    <string name="cant_update"><![CDATA[<p><font color = "#d0021b">Не удалось загрузить.</p>Потяните вниз для обновления или\nсмахните вверх.]]></string>
+    <string name="cant_update_api_16"><![CDATA[<p><font color = "#d0021b">Не удалось загрузить.</p>Потяните вниз для обновления или \n нажмите назад.]]></string>
+</resources>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/boris/Desktop/Павел и Ванес/currencies/app/build/intermediates/res/merged/release/anim-v21/bs_list_layout_anim_in.xml",
+        "source": "/Users/boris/Desktop/Павел и Ванес/currencies/app/build/intermediates/exploded-aar/com.cocosw/bottomsheet/1.3.0/res/anim-v21/bs_list_layout_anim_in.xml"
+    },
+    {
+        "merged": "/Users/boris/Desktop/Павел и Ванес/currencies/app/build/intermediates/res/merged/release/anim-v21/bs_list_item_in.xml",
+        "source": "/Users/boris/Desktop/Павел и Ванес/currencies/app/build/intermediates/exploded-aar/com.cocosw/bottomsheet/1.3.0/res/anim-v21/bs_list_item_in.xml"
+    }
+]

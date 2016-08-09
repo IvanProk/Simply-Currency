@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/usd_to_rub" android:title="@string/usd_rub" />
+    <item android:id="@+id/usd_to_eur" android:title="@string/usd_eur"/>
+    <item android:id="@+id/eur_to_rub" android:title="@string/eur_rub"/>
+    <item android:id="@+id/eur_to_usd" android:title="@string/eur_usd"/>
+    <item android:id="@+id/rub_to_usd" android:title="@string/rub_usd" />
+    <item android:id="@+id/rub_to_eur" android:title="@string/rub_eur"/>
+</menu>

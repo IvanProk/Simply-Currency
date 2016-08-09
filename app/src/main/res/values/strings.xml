@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Simply Currency</string>
+    <string name="usd_rub" translatable="false">USD ➞ RUB</string>
+    <string name="rub_usd" translatable="false">RUB ➞ USD</string>
+    <string name="eur_rub" translatable="false">EUR ➞ RUB</string>
+    <string name="rub_eur" translatable="false">RUB ➞ EUR</string>
+    <string name="usd_eur" translatable="false">USD ➞ EUR</string>
+    <string name="eur_usd" translatable="false">EUR ➞ USD</string>
+
+    <string name="info">Since yesterday\n</string>
+    <string name="eur"> \0 euro \0</string>
+    <string name="usd"> \0 dollar \0</string>
+    <string name="rub"> \0 ruble \0</string>
+    <string name="eur2"> \0 euro \n</string>
+    <string name="usd2"> \0 dollar \n</string>
+    <string name="rub2"> \0 ruble \n</string>
+    <string name="fell">fell to </string>
+    <string name="perc" translatable="false">%</string>
+    <string name="up"> up on\0</string>
+    <string name="by">by \0</string>
+    <string name="today_status">Updated today at \0</string>
+    <string name="yesterday_status">Updated yesterday at \0</string>
+    <string name="status">Updated \0</string>
+    <string name="preserved">rate is preserved \0</string>
+    <string name="on">on \0</string>
+    <string name="network_trouble"><![CDATA[<p><font color = "#d0021b">Network trouble.</p>Pull down to update.]]></string>
+    <string name="check_internet">Check your internet connection</string>
+    <string name="network_error">Network error!!!</string>
+    <string name="at"> at \0</string>
+    <string name="cant_update"><![CDATA[<p><font color = "#d0021b">Can\'t update.</p>Pull down to update or<br> swipe up.]]></string>
+    <string name="cant_update_api_16"><![CDATA[<p><font color = "#d0021b">Can\'t update.</p>Pull down to update or<br> press back.]]></string>
+</resources>
